@@ -16,7 +16,8 @@ export const zhNavbar = [
                     children:
                         [
                             { text: 'C', link: 'https://code.iglooblog.top/c/1.html' },
-                            { text: 'Js', link: '/js/' }
+                            { text: 'Js', link: '/js/' },
+                            { text: 'Java', link: '/java/' }
                         ]
                 },
                 {
