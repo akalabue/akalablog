@@ -19,7 +19,7 @@
   "homepage": "https:akalabue.cn/akalablog",
   "repository": {
     "type": "git",
-    "url": "git@gitee.com:akalabue/akalablog.git"
+    "url": "git@github.com:akalabue/akalablog.git"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.7",

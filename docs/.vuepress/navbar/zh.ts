@@ -4,7 +4,16 @@ export const zhNavbar = [
         text: '主页',
         link: '/',
         // 该元素将一直处于激活状态
-        activeMatch: '/',
+    },
+    {
+        text: 'JAVA',
+        link: '/java/   ',
+        children: [
+            {
+                text:'Tomcat',
+                link:'/java/tomcat'
+            }
+        ]
     },
     //两层嵌套
     {
@@ -30,14 +39,6 @@ export const zhNavbar = [
                         ]
                 },
             ],
-    },
-    //多个条目
-    {
-        text: '课程',
-        children: [
-            { text: '政治', link: 'politics' },
-            { text: '英语', link: 'english' }
-        ],
     },
     {
         text: '关于',

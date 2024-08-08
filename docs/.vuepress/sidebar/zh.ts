@@ -31,8 +31,6 @@ export const zhSidebar = {
     '/java/': [
             {
                 text: '目录',
-                //可折叠侧边栏
-                collapsible: true,
                 children: [
                     {
                         text:'Tomcat',

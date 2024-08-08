@@ -32,7 +32,7 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: '/logo.jpg',
     navbar: ['/', '/get-started'],
-    repo: 'https://gitee.com/akalabue/akalablog',
+    repo: 'https://github.com/akalabue/akalablog',
     locales: {
       '/': {
           selectLanguageName: '简体中文',
