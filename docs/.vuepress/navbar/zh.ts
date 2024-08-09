@@ -7,13 +7,7 @@ export const zhNavbar = [
     },
     {
         text: 'JAVA',
-        link: '/java/   ',
-        children: [
-            {
-                text:'Tomcat',
-                link:'/java/tomcat'
-            }
-        ]
+        link: '/java/',
     },
     //两层嵌套
     {

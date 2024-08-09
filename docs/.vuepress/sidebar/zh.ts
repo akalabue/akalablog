@@ -33,8 +33,12 @@ export const zhSidebar = {
                 text: '目录',
                 children: [
                     {
-                        text:'Tomcat',
-                        link:'tomcat'
+                        text:'从java服务的角度来看一次请求发生了什么？',
+                        link:'howRequestRun'
+                    },
+                    {
+                        text:'深入理解tomcat参数配置',
+                        link:'tomcatConfig'
                     }
                     ],
             }
